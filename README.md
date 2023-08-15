@@ -4,8 +4,11 @@ The purpose of this application is to generate all possible combinations of a Bi
 
 # How to use it
 `git clone https://github.com/rootiens/bitcoin-privatekey-wif-checker.git`
+
 `cd bitcoin-privatekey-wif-checker`
+
 `go mod tidy`
+
 `go run main.go`
 
 # Example
